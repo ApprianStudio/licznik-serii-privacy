@@ -46,7 +46,6 @@ Polityka prywatności może być aktualizowana w przypadku zmian w funkcjonalno�
 
 8. Kontakt
 W przypadku pytań dotyczących niniejszej Polityki Prywatności można skontaktować się z deweloperem pod adresem e-mail:
-
 apprian@o2.pl
 
 9. Zgoda
