@@ -1,4 +1,4 @@
-# licznik-serii-privacy
+# Licznik Serii Privacy
 Privacy Policy - Licznik Serii
 Data wejścia w życie: 4.02.2026
 
@@ -47,11 +47,11 @@ Aplikacja:
 Ponieważ wszystkie dane są przechowywane wyłącznie lokalnie na urządzeniu użytkownika, bezpieczeństwo danych zależy od zabezpieczeń systemu operacyjnego urządzenia.
 Deweloper nie ma dostępu do żadnych danych użytkownika.
 
-8. Zmiany w polityce prywatności
+7. Zmiany w polityce prywatności
 
 Polityka prywatności może być aktualizowana w przypadku zmian w funkcjonalności aplikacji. Aktualna wersja polityki prywatności będzie zawsze dostępna pod tym samym publicznym adresem URL.
 
-10. Kontakt
+8. Kontakt
 
 W przypadku pytań dotyczących niniejszej Polityki Prywatności można skontaktować się z deweloperem pod adresem e-mail:
 
